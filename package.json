@@ -11,7 +11,7 @@
     "prisma": "npx prisma generate --schema prisma/ums.prisma --watch"
   },
   "dependencies": {
-    "@prisma/client": "^5.9.1",
+    "@prisma/client": "^5.14.0",
     "@types/express-fileupload": "^1.4.4",
     "@types/mysql": "^2.15.21",
     "axios": "^1.4.0",
